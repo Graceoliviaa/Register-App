@@ -55,3 +55,7 @@ Or open the project in Android Studio and run directly on a device or emulator (
 - Android Studio Ladybug or newer
 - Android SDK API 31+
 - JDK 11
+
+## Screenshot
+![img](./img.jpeg)
+![img_1](./img_1.jpeg)
